@@ -6,3 +6,4 @@ numpy
 glob2
 os-sys
 Pillow
+pandas
