@@ -1,0 +1,8 @@
+vietocr>=0.3.11
+yolov5
+torch
+opencv-python
+numpy
+glob2
+os-sys
+Pillow
